@@ -1,0 +1,1 @@
+# Finetuning OpenAI Whisper Neural Network Model for Arabic Voice Transcription

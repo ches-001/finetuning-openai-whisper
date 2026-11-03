@@ -1,0 +1,7 @@
+datasets[audio]==2.13.1
+transformers==4.30.2 
+accelerate==0.21.0 
+evaluate==0.4.2
+jiwer==3.0.4
+tensorboard==2.13.0
+gradio==3.50.2
